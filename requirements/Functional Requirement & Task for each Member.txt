@@ -1,0 +1,24 @@
+Functional Requirement
+
+FR1: User Registration and Login
+
+FR2: View Available Cars
+
+FR3: Car Booking Process
+
+FR4: Payment Processing
+
+FR5: Booking Management (Cancel / View Booking)
+
+Task for Each Member
+
+1 person (Sadaf)
+( Will do 2 functional requirements + Flowcharts + Pseudocode + Presentation Slides)
+
+
+1 person (Amin)
+( Will do 2 functional requirements + Flowcharts + Pseudocode + Presentation Slides)
+
+
+1 person (Aqilah)
+( Will do 1 functional requirements + Flowcharts + Pseudocode + Report)
