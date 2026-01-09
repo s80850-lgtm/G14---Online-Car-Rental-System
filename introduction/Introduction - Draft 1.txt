@@ -1,0 +1,36 @@
+1.0 INTRODUCTION
+1.1 Background of the System
+The car rental industry has undergone a massive shift from traditional physical
+storefronts to digital platforms. In the past, customers had to visit a rental office,
+manually fill out paperwork, and rely on the staff's verbal confirmation of car
+availability. This process was often slow, prone to human error, and limited by
+business operating hours.
+The Online Car Rental System is a web-based solution designed to modernize this
+process. It acts as a centralized platform where vehicle data, customer information,
+and booking schedules are integrated into a single database. This allows for real-time
+synchronization, ensuring that once a car is booked, it is immediately removed from
+the available list, preventing double-bookings.
+
+1.2 Purpose of the System
+The primary purpose of this system is to simplify the rental experience for both the
+service provider and the customer. Specifically, it aims to:
+● Enhance Accessibility: Allow customers to browse and book vehicles 24/7
+from any location via the internet.
+● Improve Efficiency: Automate the booking and payment process, reducing the
+need for manual data entry and administrative overhead.
+● Data Accuracy: Maintain a real-time record of vehicle availability,
+maintenance status, and financial transactions.
+● Customer Trust: Provide a transparent platform where users can see clear
+pricing, car specifications, and manage their own booking history.
+
+1.3 Overall Idea and Context
+The main idea of the system is to build a self-service environment where customers
+actively manage their own rental process. Rather than simply receiving information,
+users take control by registering their own accounts, searching for cars that match
+their preferences such as budget, brand, or vehicle size and completing payments
+securely on their own.
+In a wider perspective, this system aligns with the demands of the modern digital
+economy. It enables a car rental business to grow efficiently by replacing traditional,
+paper-based operations with a centralized, cloud-based platform. Beyond just renting
+vehicles, the system supports the entire rental lifecycle, from user registration, car
+selection and payment, to reservation management and status tracking.
